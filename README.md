@@ -10,7 +10,7 @@ Signup or Login to [Picovoice Console](https://console.picovoice.ai/) to get you
 <br>
 ## Install & run
 
-Use `yarn` or `npm` to install the dependencies, and the `start` script to start a local web server hosting the demo.
+Use `npm` to install the dependencies, and the `start` script to start a local web server hosting the demo.
 <br>
 ```console
 npm install 
