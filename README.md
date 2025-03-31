@@ -18,5 +18,5 @@ npm install
 <br>
 
 ```console
-http-server -p (your port number)
+http-server -p your_port_number
 ```
